@@ -1,0 +1,8 @@
+tile_page_black_armor
+
+[OBJECT:TILE_PAGE]
+
+	[TILE_PAGE:BLACK_ARMOR]
+	[FILE:images/black_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:800]
