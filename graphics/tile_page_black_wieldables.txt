@@ -1,8 +1,0 @@
-tile_page_black_wieldables
-
-[OBJECT:TILE_PAGE]
-
-	[TILE_PAGE:BLACK_WIELDABLES]
-	[FILE:images/black_wieldables.png]
-	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:960:864]
